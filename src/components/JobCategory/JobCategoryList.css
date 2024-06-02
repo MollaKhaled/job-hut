@@ -1,0 +1,14 @@
+.category-img{
+  height: 40px;
+  width: 40px;
+  border: 2px solid seashell;
+  border-radius: 5px;
+}
+.category-list{
+
+  background-color: rgb(237, 230, 243);
+  border: 2px solid silver;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 20px;
+}

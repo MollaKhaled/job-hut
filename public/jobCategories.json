@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "category_name": "Account & Finance",
+    "number_of_jobs": "300 Jobs Available",
+    "image_url": "https://i.ibb.co/cbjrfdj/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg"
+    
+  },
+  {
+    "id": 2,
+    "category_name": "Creative Design",
+    "number_of_jobs": "100 Jobs Available",
+    "image_url": "https://i.ibb.co/7nS8vPy/thisisengineering-64-Yr-PKigu-AE-unsplash.jpg"
+   
+  },
+  {
+    "id": 3,
+    "category_name": "Marketing & Sales",
+    "number_of_jobs": "150 Jobs Available",
+    "image_url": "https://i.ibb.co/Z1ym389/max-duzij-q-Aj-Jk-un3-BI-unsplash.jpg"
+    
+  },
+  {
+    "id": 4,
+    "category_name": "Engineering",
+    "number_of_jobs": "224 Jobs Available",
+    "image_url": "https://i.ibb.co/bQzjDMP/mohammad-rahmani-Fx34-Keq-IEw-unsplash.jpg"
+
+   
+  }
+]

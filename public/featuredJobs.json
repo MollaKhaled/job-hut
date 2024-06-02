@@ -1,0 +1,192 @@
+[
+  {
+    "_id": 1,
+    "company": "Google LLC",
+    "title": "Software Engineer",
+    "location": "Mountain View, CA",
+    "employment_type": "Full Time",
+    "job_type": "Onsite",
+    "salary": "120K-180K",
+    "url": "https://i.ibb.co/Qck77Wp/mitchell-luo-jz4ca36o-J-M-unsplash.jpg",
+    "description": "Design, develop, and test software applications. Collaborate with cross-functional teams to deliver high-quality products.",
+    "responsibilities": [
+      "Design software architecture",
+      "Write clean and maintainable code",
+      "Test and debug software",
+      "Collaborate with engineers and product managers"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "2-5 years of experience in software development"
+  },
+  {
+    "_id": 2,
+    "company": "Amazon Inc.",
+    "title": "Backend Developer",
+    "location": "Seattle, WA",
+    "employment_type": "Full Time",
+    "job_type": "Remote",
+    "salary": "110K-170K",
+    "url": "https://i.ibb.co/dfN1TnW/amazon.jpg",
+    "description": "Develop and maintain backend services and APIs. Ensure high performance and responsiveness to requests.",
+    "responsibilities": [
+      "Develop server-side logic",
+      "Optimize applications for scalability",
+      "Implement data storage solutions",
+      "Collaborate with frontend developers"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "3-6 years of backend development experience"
+  },
+  {
+    "_id": 3,
+    "company": "Facebook Inc.",
+    "title": "Frontend Engineer",
+    "location": "Menlo Park, CA",
+    "employment_type": "Full Time",
+    "job_type": "Hybrid",
+    "salary": "130K-190K",
+    "url": "https://i.ibb.co/p3JYgJ9/fb.jpg",
+    "description": "Build and maintain web applications. Focus on user experience and performance.",
+    "responsibilities": [
+      "Develop user-facing features",
+      "Ensure the technical feasibility of UI/UX designs",
+      "Optimize applications for speed and scalability",
+      "Collaborate with product managers and designers"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "4-7 years of frontend development experience"
+  },
+  {
+    "_id": 4,
+    "company": "Microsoft Corporation",
+    "title": "Data Scientist",
+    "location": "Redmond, WA",
+    "employment_type": "Full Time",
+    "job_type": "Onsite",
+    "salary": "140K-200K",
+    "url": "https://i.ibb.co/VJVSXLz/microsoft.jpg",
+    "description": "Analyze and interpret complex data to help inform business decisions. Develop models and algorithms.",
+    "responsibilities": [
+      "Collect and analyze data",
+      "Build predictive models",
+      "Collaborate with engineers and stakeholders",
+      "Communicate insights and recommendations"
+    ],
+    "education": "Master's degree in Data Science or related field",
+    "experience": "2-4 years of experience in data science"
+  },
+  {
+    "_id": 5,
+    "company": "Apple Inc.",
+    "title": "iOS Developer",
+    "location": "Cupertino, CA",
+    "employment_type": "Full Time",
+    "job_type": "Onsite",
+    "salary": "125K-185K",
+    "url": "https://i.ibb.co/XpgYZZY/apple.jpg",
+    "description": "Develop applications for iOS devices. Ensure high performance and user experience.",
+    "responsibilities": [
+      "Design and build applications for iOS",
+      "Ensure the performance and quality of applications",
+      "Collaborate with a team to define and design new features",
+      "Identify and fix bugs"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "3-5 years of iOS development experience"
+  },
+  {
+    "_id": 6,
+    "company": "Netflix Inc.",
+    "title": "DevOps Engineer",
+    "location": "Los Gatos, CA",
+    "employment_type": "Full Time",
+    "job_type": "Hybrid",
+    "salary": "135K-195K",
+    "url": "https://i.ibb.co/M1Y6zkh/netflix.jpg",
+    "description": "Manage and automate infrastructure. Ensure high availability and performance of services.",
+    "responsibilities": [
+      "Implement and manage CI/CD pipelines",
+      "Monitor and maintain infrastructure",
+      "Automate deployment processes",
+      "Collaborate with development teams"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "4-6 years of DevOps experience"
+  },
+  {
+    "_id": 7,
+    "company": "X Inc.",
+    "title": "Full Stack Developer",
+    "location": "San Francisco, CA",
+    "employment_type": "Full Time",
+    "job_type": "Remote",
+    "salary": "115K-175K",
+    "url": "https://i.ibb.co/10TCdL6/X.jpg",
+    "description": "Work on both frontend and backend development. Build scalable and efficient applications.",
+    "responsibilities": [
+      "Develop and maintain web applications",
+      "Ensure application performance and scalability",
+      "Collaborate with designers and product managers",
+      "Write clean and maintainable code"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "3-5 years of full stack development experience"
+  },
+  {
+    "_id": 8,
+    "company": "LinkedIn Corporation",
+    "title": "Machine Learning Engineer",
+    "location": "Sunnyvale, CA",
+    "employment_type": "Full Time",
+    "job_type": "Onsite",
+    "salary": "145K-205K",
+    "url": "https://i.ibb.co/HgbycRm/linkedIn.jpg",
+    "description": "Develop and deploy machine learning models. Work with large datasets to derive insights.",
+    "responsibilities": [
+      "Design and implement machine learning algorithms",
+      "Analyze and process large datasets",
+      "Collaborate with data scientists and engineers",
+      "Optimize models for performance"
+    ],
+    "education": "Master's degree in Computer Science or related field",
+    "experience": "2-4 years of experience in machine learning"
+  },
+  {
+    "_id": 9,
+    "company": "Tesla Inc.",
+    "title": "Embedded Systems Engineer",
+    "location": "Palo Alto, CA",
+    "employment_type": "Full Time",
+    "job_type": "Onsite",
+    "salary": "130K-190K",
+    "url": "https://i.ibb.co/Fg7T9rN/Tesla.jpg",
+    "description": "Develop and maintain embedded systems. Ensure reliability and efficiency.",
+    "responsibilities": [
+      "Design and implement embedded software",
+      "Test and debug systems",
+      "Collaborate with hardware engineers",
+      "Optimize system performance"
+    ],
+    "education": "Bachelor's degree in Electrical Engineering or related field",
+    "experience": "3-5 years of experience in embedded systems"
+  },
+  {
+    "_id": 10,
+    "company": "Uber Technologies",
+    "title": "Cloud Architect",
+    "location": "San Francisco, CA",
+    "employment_type": "Full Time",
+    "job_type": "Hybrid",
+    "salary": "150K-210K",
+    "url": "https://i.ibb.co/kmxZmRX/Uber.jpg",
+    "description": "Design and manage cloud infrastructure. Ensure scalability and security of cloud services.",
+    "responsibilities": [
+      "Design cloud architecture",
+      "Implement security measures",
+      "Manage cloud services",
+      "Collaborate with IT and development teams"
+    ],
+    "education": "Bachelor's degree in Computer Science or related field",
+    "experience": "5-7 years of experience in cloud computing"
+  }
+]

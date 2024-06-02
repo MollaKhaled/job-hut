@@ -1,0 +1,25 @@
+.navbar{
+  display:flex;
+  align-items: center;
+}
+.jobs{
+  margin-right:750px;
+}
+
+nav a {
+  margin-right: 85px;
+  font-size:20px;
+  
+  
+}
+.header{
+  display:flex;
+  align-items: center;
+  justify-content: space-between; 
+  
+}
+.header img {
+  height: 666px;
+  width: 724px;
+}
+

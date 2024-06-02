@@ -1,0 +1,31 @@
+.feature-img {
+  height: 60px;
+  width: 117px;
+  border-radius: 5px;
+}
+.job-container{
+  border: 2px solid silver;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 20px;
+
+}
+.btn-proceed{
+  
+  height: 56px;
+  margin: 10px auto;
+  font-size: 21px;
+  background-color:rgb(130, 90, 223); 
+  color: aliceblue;
+  border-radius:4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.location-salary{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  
+}
